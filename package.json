@@ -1,6 +1,6 @@
 {
   "name": "ng2-autosave-form",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An angular2 form that saves automatically",
   "main": "index.js",
   "scripts": {
