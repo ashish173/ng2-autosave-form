@@ -1,6 +1,8 @@
 Number Formatter
 =========
 
+[![Build Status](https://travis-ci.org/ashish173/ng2-autosave-form.svg?branch=master)](https://travis-ci.org/ashish173/ng2-autosave-form)
+
 A small library that adds commas to numbers
 
 ## Installation
